@@ -36,7 +36,7 @@
 - **🧠 Cab Fare Prediction** – ML model to predict fares using regression
 - **📊 Tableau Dashboards** – Built for sales, KPIs, and marketing metrics
 - **🔍 Exploratory Data Analysis** – On datasets like Zomato, Superstore, etc.
-- - **🌍 NakshaMagic (In Progress)** – A mobile-friendly platform for affordable architectural planning, targeting lower-middle-class families with a clean and intuitive UX
+- **🌍 NakshaMagic (In Progress)** – A mobile-friendly platform for affordable architectural planning, targeting lower-middle-class families with a clean and intuitive UX
 
 ---
 
