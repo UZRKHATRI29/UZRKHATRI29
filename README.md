@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on real-world **client dashboards**, **ML models**, and **React apps**
 - 🌱 Currently leveling up in **data pipelines**, **API integration**, and **advanced analytics**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/UZRKHATRI29)
-- 📫 Reach me at **uzerkhatri812@gmail.com*
+- 📫 Reach me at **uzerkhatri812@gmail.com**
 - ⚡ Fun fact: I led a hostel cricket team to finals once 🏏
 
 ---
@@ -45,11 +45,14 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="[Uzer Khatri](https://www.linkedin.com/in/uzer-khatri-904582203/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mahammad-uzer-khatri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Uzer%20Khatri-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:uzerkhatri812@gmail.com" target="_blank">
+  <a href="mailto:mahammaduzerkhatri@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://twitter.com/uzrkhatri29" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@uzrkhatri29-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
