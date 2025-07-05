@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on real-world **client dashboards**, **ML models**, and **React apps**
 - 🌱 Currently leveling up in **data pipelines**, **API integration**, and **advanced analytics**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/UZRKHATRI29)
-- 📫 Reach me at **mahammaduzerkhatri@gmail.com**
+- 📫 Reach me at **uzerkhatri812@gmail.com*
 - ⚡ Fun fact: I led a hostel cricket team to finals once 🏏
 
 ---
@@ -34,9 +34,9 @@
 
 - **📈 COVID-19 Data Exploration** – SQL + Python-based deep analysis
 - **🧠 Cab Fare Prediction** – ML model to predict fares using regression
-- **🏗 Royal Architect Website** – Full client website in React
 - **📊 Tableau Dashboards** – Built for sales, KPIs, and marketing metrics
 - **🔍 Exploratory Data Analysis** – On datasets like Zomato, Superstore, etc.
+- - **🌍 NakshaMagic (In Progress)** – A mobile-friendly platform for affordable architectural planning, targeting lower-middle-class families with a clean and intuitive UX
 
 ---
 
